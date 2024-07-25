@@ -1,4 +1,4 @@
-# Python_portfolio
+# Python portfolio 🗂️
 ## Welcome to my Python portfolio! Here, you'll find various projects where I've used Python to tackle mechanical engineering problems.
 
 FEM Beam Vibration Analysis
