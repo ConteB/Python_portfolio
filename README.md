@@ -3,3 +3,6 @@
 
 Beam Vibration Analysis
 https://colab.research.google.com/drive/1zVtMi_B9vAk3Yj6iJnXRlquwHSe-GU5M?usp=sharing
+
+Lumped Speaker analisys
+https://colab.research.google.com/drive/14zsIvxOXTEhBisqxSznYmxrl5JliAc1l?usp=sharing
