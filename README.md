@@ -1,5 +1,5 @@
 # Python portfolio 🗂️
-## Welcome to my Python portfolio! Here, you'll find various projects where I've used Python to tackle mechanical engineering problems. You can try every code directly in google colab.
+## Welcome to my Python portfolio! Here, you'll find various projects where I've used Python to tackle mechanical engineering problems. You can try every code directly in Google Colab.
 
 
 ### Mechanics⚙️
