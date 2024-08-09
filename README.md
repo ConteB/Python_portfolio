@@ -22,3 +22,7 @@ https://colab.research.google.com/drive/1QWEN5iQvgwjWRq5BaEgnmM7tLRTLa3mD?usp=sh
 
 IR room analysis
 https://colab.research.google.com/drive/1TblxQlO7FvoEpHad0YECY-2_zP2CH_hn?usp=sharing
+
+
+De-noising and de-trending
+https://colab.research.google.com/drive/1j3Qs7-KoP_jM5kKDgx5l4yBh_SB1cAwZ?usp=sharing
